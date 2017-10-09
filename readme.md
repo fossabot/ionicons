@@ -1,4 +1,6 @@
 # Ionicons
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fionicons.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fionicons?ref=badge_shield)
+
 
 
 The premium icon font for [Ionic](http://ionicframework.com/). Designed by [@benjsperry](https://twitter.com/benjsperry).
@@ -58,3 +60,6 @@ This repo already comes with all the files built and ready to go, but can also b
 ## License
 
 Ionicons is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fionicons.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fionicons?ref=badge_large)
